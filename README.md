@@ -1,5 +1,5 @@
 # InstaCredentialSender
-A simple python program created using python which can help you get Instagram Credentials.
+A simple python program created using selenium which can help you get Instagram Credentials.
 
 ** THIS IS MADE FOR EDUCATIONAL PURPOSE ONLY **
 
